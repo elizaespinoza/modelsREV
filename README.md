@@ -1,0 +1,11 @@
+## Reticuloendotheliosis virus protein models
+
+This repo contains ENV, GAG and POL protein models.
+
+| Sequence ID | ENV | GAG | POL |
+|:-----------:|:---:|:---:|:---:|
+|NC_006934_HA9901|m_ENV_NC_006934_HA9901.pdb|m_GAG_NC_006934_HA9901.pdb|m_POL_NC_006934_HA9901.pdb|
+|DQ003591_SNV    |m_ENV_DQ003591_SNV.pdb    |m_GAG_DQ003591_SNV.pdb    |m_POL_DQ003591_SNV.pdb    |
+|DQ387450_APC-566|m_ENV_DQ387450_APC-566.pdb|m_GAG_DQ387450_APC-566.pdb|m_POL_DQ387450_APC-566.pdb|
+|OK631657_USP-586|m_ENV_OK631657_USP-586.pdb|m_GAG_OK631657_USP-586.pdb|m_POL_OK631657_USP-586.pdb|
+|OK631658_USP-976|m_ENV_OK631658_USP-976.pdb|m_GAG_OK631658_USP-976.pdb|m_POL_OK631658_USP-976.pdb|
